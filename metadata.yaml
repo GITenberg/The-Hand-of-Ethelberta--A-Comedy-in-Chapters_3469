@@ -1,0 +1,35 @@
+_repo: The-Hand-of-Ethelberta--A-Comedy-in-Chapters_3469
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: "The Hand of Ethelberta: A Comedy in Chapters is a novel by Thomas Hardy,\
+  \ published in 1876. It was written, in serial form, for the Cornhill Magazine,\
+  \ which was edited by Leslie Stephen, a friend and mentor of Hardy's.\n\n\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3469'
+  wikidata: Q2661231
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Impostors and imposture -- Fiction'
+- GITenberg
+title: 'The Hand of Ethelberta: A Comedy in Chapters'
+url: http://www.gutenberg.org/ebooks/3469
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Hand_of_Ethelberta
+- https://nl.wikipedia.org/wiki/The_Hand_of_Ethelberta
